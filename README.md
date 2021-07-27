@@ -96,3 +96,16 @@ REQUÊTE POUR AFFICHER LES 3 DERNIERS ACTEURS AJOUTÉS (Depuis la table « Acto
 SELECT Nom, Prenom FROM Actors ORDER BY CreationDate DESC
 LIMIT 3
 ```
+
+
+
+
+                                                                                                    A__A
+                                                                                                    |・ㅅ・|
+                                                                                                    |っ　ｃ|
+                                                                                                    |　　　|
+                                                                                                    |　　　|
+                                                                                                    |　　　|
+                                                                                                    |　　　|
+                                                                                                    |　　　|
+                                                                                                     U￣￣U
