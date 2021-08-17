@@ -70,7 +70,7 @@ REQUÊTE POUR AJOUTER UN ACTEUR (Depuis la table « Actors »):
 ```sql
 
 INSERT INTO Actors (Nom, Prenom, DateOfBirth)
-VALUES ('Dujardin', 'Jean', '1972-06-19’);
+VALUES ('Dujardin', 'Jean', '1972-06-19');
 ```
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -81,7 +81,7 @@ REQUÊTE POUR MODIFIER UN FILM (Depuis la table « Movie ») :
 ```sql
 
 UPDATE Movies
-SET Title = "Code D'opale » ,
+SET Title = "Code D'opale",
 Director = "Luc Besson"
 WHERE Title = "Black Widow";
 ```
